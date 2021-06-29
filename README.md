@@ -29,7 +29,7 @@ Projeto para treinar Javascript puro
 
 
 
-<a href="https://nonatodiego.github.io/jogo-da-forca/">Demonstração</a>
+<a href="https://nonatodiego.github.io/type-game/">Demonstração</a>
 
 ## Tecnologias :rocket:
 
